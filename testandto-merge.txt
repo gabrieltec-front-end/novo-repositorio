@@ -1,1 +1,3 @@
-testtando mais uma vez as merges do arquivo
+testando mais uma vez as merges do arquivo
+Testando a mesclagem de ramificações das branchs ,criando o arquivo para conflito
+
