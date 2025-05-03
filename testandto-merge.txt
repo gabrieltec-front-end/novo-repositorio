@@ -1,1 +1,1 @@
-Testando a mesclagem de ramificações das branchs 
+Testando a mesclagem de ramificações das branchs ,criando o arquivo para conflito
